@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>New Page</title>
+</head>
+<body>
+
+  <h1>Welcome to my new page</h1>
+  <p> is a simple web page created using HTML.</p>
+  <a href="https://www.bing.com" target="_blank">Visit Bing</a>
+  <img src="https://www.bing.com/th?id=OIP.GURnZicaENMLYBMZN9k1LwHaFS&pid=15.1" alt="Bing logo" width="300" height="200">
+</body>
+</html>
